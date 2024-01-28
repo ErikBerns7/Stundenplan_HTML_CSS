@@ -1,0 +1,66 @@
+td {
+	font-size:1em;
+	font-family: Raleway, sans-serif;
+	text-align: center;
+	border:3px;
+	border-collapse:collapse;
+	border-color:Black;
+	border-style:solid;
+	color:Black;
+    padding:15px;
+}
+th {
+	font-size:1em;
+	font-family: Raleway, sans-serif;
+	text-align: center;
+	border:3px;
+	border-collapse:collapse;
+	border-color:Black;
+	border-style:solid;
+	color:Black;
+	padding:5px;
+}
+
+table {
+    background:#dafcc5;
+    border: 5px;
+    border-collapse: collapse;
+    border-color: Black;
+    border-style:solid;
+}
+
+h1 {
+	font-size:2em;
+	font-family: Raleway, sans-serif;
+	text-align: center;
+}
+
+body {
+	background-color: #f1ffe8;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#LinksFrosch {
+	position:relative;
+}
+
+#LinksFrosch img {
+    left: 500px;
+	bottom: 0px;
+	position:absolute;
+}
+
+#RechtsFrosch {
+	position:relative;
+}
+
+#RechtsFrosch img {
+    left: 1750px;
+	bottom: -50px;
+	position:absolute;
+}
+
